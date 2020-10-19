@@ -1,0 +1,23 @@
+body{
+
+    
+    font-family: 'Roboto', sans-serif;
+   
+    background: #fc5c7d; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fc5c7d, #6a82fb); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fc5c7d, #6a82fb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.container img{
+    text-align: center;
+    padding: 20px 30px;
+    margin: 30px 20px;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 90px;
+}
